@@ -1,0 +1,24 @@
+{
+  "name": "thatconnection",
+  "version": "1.0.0",
+  "description": "Dating app created with modern technology (merns)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonwebs/thatconnection-app.git"
+  },
+  "author": "simon agbey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonwebs/thatconnection-app/issues"
+  },
+  "homepage": "https://github.com/simonwebs/thatconnection-app#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
